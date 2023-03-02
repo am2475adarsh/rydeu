@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rydeu/NayaPage/precache-manifest.e9dbd66b107b81b4209461becbe98647.js"
+  "/rydeu/precache-manifest.f27a5163474941f5b96e1fce05e459f0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/rydeu/NayaPage/index.html", {
+workbox.routing.registerNavigationRoute("/rydeu/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
