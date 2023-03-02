@@ -1,7 +1,7 @@
 {
   "main.css": "/rydeu/static/css/main.84ef41c5.chunk.css",
-  "main.js": "/rydeu/static/js/main.c1546e53.chunk.js",
-  "main.js.map": "/rydeu/static/js/main.c1546e53.chunk.js.map",
+  "main.js": "/rydeu/static/js/main.2396bc18.chunk.js",
+  "main.js.map": "/rydeu/static/js/main.2396bc18.chunk.js.map",
   "static/js/1.23e5026d.chunk.js": "/rydeu/static/js/1.23e5026d.chunk.js",
   "static/js/1.23e5026d.chunk.js.map": "/rydeu/static/js/1.23e5026d.chunk.js.map",
   "static/js/2.04741fe1.chunk.js": "/rydeu/static/js/2.04741fe1.chunk.js",
@@ -15,6 +15,6 @@
   "static/media/footerays.png": "/rydeu/static/media/footerays.b350a5d1.png",
   "static/css/main.84ef41c5.chunk.css.map": "/rydeu/static/css/main.84ef41c5.chunk.css.map",
   "index.html": "/rydeu/index.html",
-  "precache-manifest.f27a5163474941f5b96e1fce05e459f0.js": "/rydeu/precache-manifest.f27a5163474941f5b96e1fce05e459f0.js",
+  "precache-manifest.571ca07e58624b4eff7388926146cd9b.js": "/rydeu/precache-manifest.571ca07e58624b4eff7388926146cd9b.js",
   "service-worker.js": "/rydeu/service-worker.js"
 }
