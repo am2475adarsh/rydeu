@@ -1,0 +1,273 @@
+/* *{
+    border: 1px solid red;
+} */
+
+.Faq-Content{
+    margin-top: 0px;
+    height: 536.52px;
+    /* width: 100%; */
+    position: relative;
+    top: 0;
+}
+
+.Rectangle{
+    position: absolute;
+    z-index: 20;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    min-width: 100vw !important;
+    height:61.5vw !important;
+}
+
+
+path{
+    position: absolute;
+    left: 0;
+}
+
+.Text{
+    position: absolute;
+    z-index: 30;
+    top: 32%;
+    bottom: 50%;
+    left: 32%;
+    width: 510px;
+    height: 24px;
+}
+
+.FindText{
+    position: absolute;
+    z-index: 30;
+    bottom: 50%;
+    top: 40%;
+    left: 32%;
+    width: 500px;
+    height: 17px;
+    font-family: 'Montserrat';
+    font-size: 25px;
+    line-height: 90px;
+    color: #484848
+}
+
+.Ques{
+    position: relative;
+    margin-left: -370px;
+    height: 4vw !important;
+    min-width: 4vw !important ;
+    top: 57px;
+}
+
+.link{
+    position: relative;
+    left: 10px;
+    height: 2.5vw !important;
+    min-width: 2.5vw !important ;
+    top: 120px;
+}
+
+.FaqBox{
+    position: absolute;
+    z-index: 30;
+    top: 79%;
+    left: 9%;
+    height: 13vw;
+    width: 40vw;
+    background: #FFFFFF;
+    border: 1.4px solid #EFEFEF;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.09);
+    border-radius: 15px;
+}
+
+
+.FaqBox p{
+    font-size: 2vw;
+    position: relative;
+    top: -50px;
+    left: 150px;
+    width: 50px;
+}
+
+
+.FaqBoxTwo{
+    position: absolute;
+    z-index: 30;
+    top: 79%;
+    left: 55%;
+    height: 13vw;
+    width: 40vw;
+    background: #FFFFFF;
+    border: 1.4px solid #EFEFEF;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.09);
+    border-radius: 15px;
+}
+
+.FaqBoxTwo p{
+    font-size: 25px;
+    position: relative;
+    top: -50px;
+    left: 150px;
+    width: 137px;
+}
+
+.FaqBoxThree{
+    position: absolute;
+    z-index: 30;
+    top: 120%;
+    left: 16%;
+    height: 13vw;
+    width: 70vw;
+    background: #FFFFFF;
+    border: 1.4px solid #EFEFEF;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.09);
+    border-radius: 15px;
+}
+
+.FaqBoxThree p{
+    font-size: 25px;
+    position: relative;
+    top: -50px;
+    left: 105px;
+    width: 137px;
+}
+
+.Icons_new{
+     position: relative;
+    margin-left: -750px;
+    height: 3.5vw !important;
+    min-width: 3.5vw !important ;
+    top: 57px;
+}
+
+.Arrow{
+    position: relative;
+    left:400px;
+    top:-50px;
+    cursor: pointer;
+}
+
+.FaqBoxFour{
+    position: absolute;
+    z-index: 30;
+    top: 170%;
+    left: 16%;
+    height: 13vw;
+    width: 70vw;
+    background: #FFFFFF;
+    border: 1.4px solid #EFEFEF;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.09);
+    border-radius: 15px;
+}
+
+.FaqBoxFour p{
+    font-size: 25px;
+    position: relative;
+    top: -50px;
+    left: 105px;
+    width: 137px;
+}
+
+.FaqBoxFive{
+    position: absolute;
+    z-index: 30;
+    top: 220%;
+    left: 16%;
+    height: 13vw;
+    width: 70vw;
+    background: #FFFFFF;
+    border: 1.4px solid #EFEFEF;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.09);
+    border-radius: 15px;
+}
+
+.FaqBoxFive p{
+    font-size: 25px;
+    position: relative;
+    top: -50px;
+    left: 140px;
+    width: 137px;
+}
+
+.Content{
+    position: relative;
+    top : 20px;
+    display: none;
+}
+
+#Content1 svg:nth-child(2){
+    margin-left: 60px;
+}
+
+#Content1 img{
+    margin-left: 65px;
+}
+
+
+#Content2 img:nth-child(n){
+    margin-left: 50px;
+}
+
+#Content2 img:nth-child(1){
+    margin-left: 0px;
+}
+
+.Content3_container{
+    height: 250px;
+    width: 555px;
+}
+
+#Content3{
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    /* background-color: #484848; */
+    height:300px;
+    /* width: 700px; */
+    position: relative;
+}
+
+.inputBox{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+.inputBox input{
+    left: 40px;
+    width: 20vw;
+    height:1.5vw;
+    background: #F7F7F7;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px;
+}
+
+.inputBoxRow{
+    display: flex;
+    flex-direction: column;
+    text-align:left;
+    font-family: 'Lato';
+    font-style: normal;
+    color: #484848;
+    font-size: 13px;
+}
+
+.Content3_container .inputBox:nth-child(3){
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputBox .inputBoxRow:nth-child(2){
+    position: relative;
+    left:20px;
+}
+
+.inputBoxRow textarea{
+    background: #F7F7F7;
+    border: 1px solid #E2E2E2;
+    border-radius: 7px;
+}
+
+.inputBoxRow label{
+    margin-bottom: 5px;
+}
