@@ -11,12 +11,12 @@ class Navbar extends Component {
             <ul className='terimummy'>
           <li>
             <NavLink  to="/NayaPage" >
-              Welcome
+              CITY
             </NavLink>
           </li>
           <li>
             <NavLink  to="/Faq">
-              Products
+              FAQ
             </NavLink>
           </li>
         </ul>
