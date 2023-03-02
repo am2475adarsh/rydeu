@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "fc88e70a642d2f66a004",
+    "revision": "490d87e30527bc85b2c6",
     "url": "/rydeu/static/css/main.84ef41c5.chunk.css"
   },
   {
-    "revision": "fc88e70a642d2f66a004",
-    "url": "/rydeu/static/js/main.fc88e70a.chunk.js"
+    "revision": "490d87e30527bc85b2c6",
+    "url": "/rydeu/static/js/main.490d87e3.chunk.js"
   },
   {
     "revision": "23e5026d3c124a934bc7",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/rydeu/static/media/footerays.b350a5d1.png"
   },
   {
-    "revision": "567403937628dfcc72d184cedb3e6f78",
+    "revision": "5858de6df06b902b20d0e807ec61e030",
     "url": "/rydeu/index.html"
   }
 ];
